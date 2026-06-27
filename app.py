@@ -10,7 +10,7 @@ from utils.jd_score import jd_score
 from utils.suggestions import generate_suggestions
 
 st.set_page_config(
-    page_title="AI Resume Analyzer",
+    page_title="AI Job Assistant",
     page_icon="📄",
     layout="wide"
 )
@@ -30,7 +30,7 @@ if "cover_letter" not in st.session_state:
 if "interview_questions" not in st.session_state:
     st.session_state.interview_questions = ""
 with st.sidebar:
-    st.title("🚀 AI Career Assistant")
+    st.title("🚀 AI Job Assistant")
 
     st.markdown("---")
 
@@ -47,7 +47,7 @@ with st.sidebar:
     st.markdown("---")
 
     st.info("Built with Python + Streamlit + Gemini AI")
-st.title("📄 AI Resume Analyzer")
+st.title("📄 AI Job Assistant")
 
 st.write("Upload your resume in PDF format.")
 

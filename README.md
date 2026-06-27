@@ -188,7 +188,9 @@ streamlit run app.py
 ```
 
 ---
+## 🌐 Live Demo
 
+https://ai-job-assistant-sabina06.streamlit.app/
 # 📸 Application Preview
 
 | Home | Dashboard |

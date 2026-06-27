@@ -1,4 +1,4 @@
-# CareerPilot
+# CareerPilot - AI Job Assistant
 
 An Career Assistant built using **Python**, **Streamlit** and **Google Gemini AI** that helps job seekers optimize their resumes, tailor them to job descriptions, generate professional cover letters, prepare for interviews and download a comprehensive career report.
 

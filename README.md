@@ -1,4 +1,4 @@
-# 🚀 AI Career Assistant
+# 🚀 AI Job Assistant
 
 An Career Assistant built using **Python**, **Streamlit** and **Google Gemini AI** that helps job seekers optimize their resumes, tailor them to job descriptions, generate professional cover letters, prepare for interviews and download a comprehensive career report.
 
@@ -6,7 +6,7 @@ An Career Assistant built using **Python**, **Streamlit** and **Google Gemini AI
 
 ## 📌 Overview
 
-AI Career Assistant is designed to simplify the job application process by providing intelligent resume analysis and personalized career guidance.
+AI Job Assistant is designed to simplify the job application process by providing intelligent resume analysis and personalized career guidance.
 
 The application combines traditional ATS (Applicant Tracking System) analysis with Generative AI to deliver actionable insights for improving resumes and preparing for technical interviews.
 
